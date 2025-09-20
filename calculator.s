@@ -94,7 +94,7 @@ output_fmt:
 scanf_fmt: 
   .asciz "%ld %c %ld"  # TODO: modify as needed
 err_unknown:
-  .asciz "Unknown operation."
+  .asciz "Unknown operation"
 err_div0:
   .asciz "Division by zero."
 
